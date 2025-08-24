@@ -1,4 +1,4 @@
-package com.example.mydressing
+package com.justinmoreau.mydressing
 
 import io.flutter.embedding.android.FlutterActivity
 
